@@ -31,6 +31,8 @@
 
 ##### 团队活动
 
+![](./tuanjian.webp)
+
 - [字节、心脏和音符一起跳动了：钢琴吉他打鼓，会写代码会弹唱](https://www.ixigua.com/6923822435963929103?utm_source=iframe_share)
 - [果汁分你一半 Cover. 花儿乐队](https://www.ixigua.com/6845260249566282253?utm_source=iframe_share)
 
