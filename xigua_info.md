@@ -36,12 +36,9 @@
 
 ##### 技术氛围
 1. 技术分享
-2. 技术架构workshop 西瓜上海代码设计能力提升workshop执行方案 
-3. 代码走读 安卓客户端代码走读 
+2. 技术架构workshop
+3. 代码走读 
 4. 团队的一些KM，例如响应链
-
-##### 项目管理
-1. FTO (Feature Team Owner) ： 💯需求技术负责人操作手册 
 
 ##### 产研氛围
 ![](./image_flag.png)
@@ -49,5 +46,18 @@
 ---
 
 # 🎸 团队建设
+
+##### 团队活动
+
 - [字节、心脏和音符一起跳动了：钢琴吉他打鼓，会写代码会弹唱](https://www.ixigua.com/6923822435963929103?utm_source=iframe_share)
 - [果汁分你一半 Cover. 花儿乐队](https://www.ixigua.com/6845260249566282253?utm_source=iframe_share)
+
+##### 舟山之行
+
+![](./zhoushan/1.png)
+![](./zhoushan/2.png)
+![](./zhoushan/3.png)
+![](./zhoushan/4.png)
+![](./zhoushan/5.png)
+
+# 🌟 岗位介绍
